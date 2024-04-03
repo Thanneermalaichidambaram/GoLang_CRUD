@@ -1,4 +1,4 @@
-Below is a sample README.md file for a GoLang CRUD (Create, Read, Update, Delete) operations project for managing movies:
+GoLang CRUD (Create, Read, Update, Delete) operations project for managing movies:
 
 ```markdown
 # GoLang CRUD Operations for Movies
