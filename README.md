@@ -12,34 +12,23 @@ This is a simple CRUD operations project built using GoLang to manage movies. It
 - Update movie details
 - Delete movie records
 
-## Requirements
-
-- GoLang installed on your system
-- PostgreSQL (or any other database of your choice) installed and configured
-- Required Go packages (listed in `go.mod`)
-
 ## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Thanneermalaichidambaram/GoLang_CRUD.git
-   ```
 
+
+
+   ```b
+   ```
+1. Clone the respository:
+   ```bash
+   git clone "https://github.com/Thanneermalaichidambaram/GoLang_CRUD.git"
+   ```
 2. Navigate to the project directory:
    ```bash
    cd go-crud-movies
    ```
 
-3. Install dependencies:
-   ```bash
-   go mod tidy
-   ```
-
-4. Configure the database:
-   - Create a PostgreSQL database named `movies_db`
-   - Update the database connection details in `config/config.go` file if necessary
-
-5. Run the application:
+3. Run the application:
    ```bash
    go run main.go
    ```
